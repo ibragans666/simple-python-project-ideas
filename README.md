@@ -1,7 +1,10 @@
 # Simple Python Project Ideas
 
 ## Sorry for the typo
-A collection of simple ideas and experiments using Python.
+A collection of simple ideas and experiments using Python:
+- data structure
+- machine learning
+- deep learning
 
 soon.
 
